@@ -1,3 +1,6 @@
 # NBA Shot Prediction
-<embed src="https://github.com/alexdai186/NBA_Shot_Predictor/blob/master/NBA_Shot_Log_Report.pdf" width="500" height="375" 
- type='application/pdf'>
+<object data="NBA_Shot_Log_Report.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="NBA_Shot_Log_Report.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="NBA_Shot_Log_Report.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
