@@ -33,11 +33,11 @@ shot.
 The data we will be looking at shot log data gathered from
 the SportsVU camera systems for every game spanning a
 majority of the 2014-2015 NBA season, from Oct 2014-Mar
-2015. The data was taken from https://www.kaggle.
-com/dansbecker/nba-shot-logs/home,
+2015. The data was taken from https://www.kaggle.com/dansbecker/nba-shot-logs/home,
 which
 compiled this dataset by using the NBA API. The reason
 we are looking at data from the 2014-2015 season is that
 the NBA API stopped providing this data permanently after
 the 2015 season due to cost concerns.
 
+Read more in the pdf file
